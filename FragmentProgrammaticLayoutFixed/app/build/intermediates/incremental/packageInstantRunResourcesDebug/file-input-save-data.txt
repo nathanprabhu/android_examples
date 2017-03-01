@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Oct 04 10:20:54 CDT 2016
+2.base=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_/res/layout/quote_fragment.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_/res/layout/titles_item.xml
+0.base=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MusicPlayerClient</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="songNames">
+        <item>1. I\'ll be there for you</item>
+        <item>2. Walk the moon</item>
+        <item>3. Sugar</item>
+        <item>4. When I look at you</item>
+        <item>5. Thousand years</item>
+        <item>6. Euphoria</item>
+    </string-array>
+    <string-array name="artistNames">
+        <item>The Remembrandts</item>
+        <item>Maroon 5</item>
+        <item>Maroon 5</item>
+        <item>Miley Cyrus</item>
+        <item>Christina Perri</item>
+        <item>Loreen</item>
+    </string-array>
+</resources>

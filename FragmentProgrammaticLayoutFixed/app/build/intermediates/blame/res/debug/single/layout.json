@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/merged/debug/layout/quote_fragment.xml",
+        "source": "/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/src/main/res/layout/quote_fragment.xml"
+    },
+    {
+        "merged": "/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/merged/debug/layout/titles_item.xml",
+        "source": "/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/src/main/res/layout/titles_item.xml"
+    },
+    {
+        "merged": "/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/src/main/res/layout/main.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Oct 04 10:21:00 CDT 2016
+base.0=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86b10be849538530fbc8f94656a59cdd555838dd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3f0c9196ca03d26297842ad03031e4987ddffa7b/classes.dex
+base.1=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3f0c9196ca03d26297842ad03031e4987ddffa7b
+file.0=/Users/ugobuy/AndroidStudioProjects/FragmentProgrammaticLayoutFixed/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86b10be849538530fbc8f94656a59cdd555838dd/classes.dex

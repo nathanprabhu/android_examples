@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ugobuy/AndroidStudioProjects/BroadcastReceiver3Companion/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f4b0825e8cd8cec21484099a64066f3c76d8b3bd">
+        <dex dex="/Users/ugobuy/AndroidStudioProjects/BroadcastReceiver3Companion/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6015a3d2ae551e80770740165774d6e86595d46e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ugobuy/AndroidStudioProjects/BroadcastReceiver3Companion/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0c5f740007aa50735579b14d9d5f04aeb98d271c">
+        <dex dex="/Users/ugobuy/AndroidStudioProjects/BroadcastReceiver3Companion/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_37d05c59af0805c59263438b673eceae419589ab/classes.dex" />
+    </item>
+
+</items>

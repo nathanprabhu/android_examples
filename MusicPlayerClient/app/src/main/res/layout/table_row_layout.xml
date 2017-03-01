@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--Layout file to display each record in the Transactions table-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="New Text"
+        android:id="@+id/transaction"
+        android:textSize = "14dp"
+        android:textColor="#cdc8b1"
+        android:background="#483d8b"/>
+</LinearLayout>

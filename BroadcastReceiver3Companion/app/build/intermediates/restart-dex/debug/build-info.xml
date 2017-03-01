@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="59108365704683"
+    token="3051848312158399251" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="59089799492346"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/ugobuy/AndroidStudioProjects/BroadcastReceiver3Companion/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="59108365704683" />
+
+</instant-run>

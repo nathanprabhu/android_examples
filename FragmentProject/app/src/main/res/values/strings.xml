@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">FragmentProject</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="chicagolistitems">
+        <item> Willis Tower </item>
+        <item> John Hancock Center </item>
+        <item> Millenium Park </item>
+        <item> Navy Pier </item>
+        <item> Lincoln Park Zoo </item>
+        <item> Museum of Science and Industry </item>
+        <item> Field Museum of Natural History </item>
+        <item> Shedd Aquarium </item>
+        <item> Adler Planetarium </item>
+        <item> Art Institute of Chicago </item>
+        <item> Grant Park </item>
+        <item> Buckingham Fountain </item>
+        <item> Chicago Cultural Center </item>
+        <item> Chicago Symphony Center </item>
+    </string-array>
+    <string-array name="chicagowebpages">
+        <item>http://www.willistower.com/</item>
+        <item>http://www.johnhancockcenterchicago.com/</item>
+        <item>http://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>http://navypier.com/</item>
+        <item>http://www.lpzoo.org/</item>
+        <item>http://www.msichicago.org/</item>
+        <item>http://www.fieldmuseum.org/</item>
+        <item>http://www.sheddaquarium.org/</item>
+        <item>http://www.adlerplanetarium.org/</item>
+        <item>http://www.artic.edu/</item>
+        <item>http://www.chicagoparkdistrict.com/parks/grant-park/</item>
+        <item>http://www.chicagoparkdistrict.com/parks/clarence-f-buckingham-memorial-fountain/</item>
+        <item>http://www.cityofchicago.org/city/en/depts/dca/supp_info/chicago_culturalcenter.html</item>
+        <item>http://www.chicago-theater.com/theaters/symphony-center/theater.php</item>
+    </string-array>
+    <string-array name="indianalistitems">
+        <item> Indiana State Museum </item>
+        <item> Indianapolis Motor Speedway </item>
+        <item> Indianapolis Zoo </item>
+        <item> The Children\'s Museum of Indianapolis </item>
+    </string-array>
+    <string-array name="indianawebpages">
+        <item>http://www.indianamuseum.org/</item>
+        <item>http://www.indianapolismotorspeedway.com/</item>
+        <item>http://www.indianapoliszoo.com/SitePages/Home.aspx</item>
+        <item>https://www.childrensmuseum.org/</item>
+    </string-array>
+    <string name="title_activity_indiana">IndianaActivity</string>
+</resources>
